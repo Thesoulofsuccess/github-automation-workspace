@@ -1,4 +1,4 @@
-# automation-workspace
+# github-automation-workspace
 
 Personal AI & automation workspace by **Vikash Rajan** — Head of Global Operations, Redpin Payments (Mumbai).
 Home of the **GitHub Intelligence Station** plus the Claude Code config and ops tooling I build on top of it.
